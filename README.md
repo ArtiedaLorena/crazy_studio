@@ -31,7 +31,7 @@ Landing de **Studiocrazy**, estudio de uñas y pestañas en **Bernal Centro** (G
 
 <div align="center">
 
-<img src="src/assets/hero.png" alt="Hero Studiocrazy" width="720" />
+<img src="docs/captura.png" alt="Sitio Studiocrazy — uñas y pestañas en Bernal Centro" width="900" />
 
 </div>
 
